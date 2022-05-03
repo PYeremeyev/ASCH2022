@@ -1,6 +1,6 @@
 describe('Intranet Test', () => {
 
-    it.only('Login happyPath', () => {
+    it('Login happyPath', () => {
         cy.visit(Cypress.env('baseUrl'));
         cy.get('#username').type(Cypress.env('usar'));
         cy.get('#password').type(Cypress.env('pazz'), { log: false });
