@@ -1,22 +1,15 @@
 {
-  "name": "automation-programm-2022",
+  "name": "my-modern-automation",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "cypress": "cypress run",
-    "cypress-open": "cypress open",
-    "test": "jest"
-  },
-  "keywords": [],
+    "cypress-open": "cypress open"
+},
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "jest": "27.5.1"
-  },
   "dependencies": {
-    "@types/jest": "27.4.1",
-    "core-js": "3.21.1",
     "cypress": "9.5.4",
     "typescript": "4.6.3"
   }
