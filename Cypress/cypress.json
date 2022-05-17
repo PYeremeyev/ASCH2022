@@ -22,7 +22,7 @@
   "viewportHeight": 1080,
   "env": {
     "baseUrl": "https://intranet.ctco.lv",
-    "pazz": "pass",
+    "pazz": "No.",
     "usar": "pavel.yeremeyev01"
   }
 }
